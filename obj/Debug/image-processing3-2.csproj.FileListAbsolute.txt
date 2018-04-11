@@ -1,0 +1,9 @@
+c:\users\mahde\documents\visual studio 2015\Projects\image-processing3-2\image-processing3-2\bin\Debug\image-processing3-2.exe.config
+c:\users\mahde\documents\visual studio 2015\Projects\image-processing3-2\image-processing3-2\obj\Debug\image-processing3-2.csprojResolveAssemblyReference.cache
+c:\users\mahde\documents\visual studio 2015\Projects\image-processing3-2\image-processing3-2\obj\Debug\image_processing3_2.Form1.resources
+c:\users\mahde\documents\visual studio 2015\Projects\image-processing3-2\image-processing3-2\obj\Debug\image_processing3_2.Properties.Resources.resources
+c:\users\mahde\documents\visual studio 2015\Projects\image-processing3-2\image-processing3-2\obj\Debug\image-processing3-2.csproj.GenerateResource.Cache
+c:\users\mahde\documents\visual studio 2015\Projects\image-processing3-2\image-processing3-2\bin\Debug\image-processing3-2.exe
+c:\users\mahde\documents\visual studio 2015\Projects\image-processing3-2\image-processing3-2\bin\Debug\image-processing3-2.pdb
+c:\users\mahde\documents\visual studio 2015\Projects\image-processing3-2\image-processing3-2\obj\Debug\image-processing3-2.exe
+c:\users\mahde\documents\visual studio 2015\Projects\image-processing3-2\image-processing3-2\obj\Debug\image-processing3-2.pdb
